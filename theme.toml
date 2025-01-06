@@ -2,7 +2,7 @@ name = "Hugo Simple"
 license = "MIT"
 licenselink = "https://github.com/mofelo/hugo-simple/blob/main/LICENSE"
 description = "A Hugo-theme based on Simple.css and Bear Blog"
-homepage = "https://github.com/maolonglong/hugo-simple"
+homepage = "https://github.com/mofelo/hugo-simple"
 demosite = "https://mofelo.github.io/hugo-simple"
 
 tags = ["blog", "minimal", "fast", "dark mode"]
